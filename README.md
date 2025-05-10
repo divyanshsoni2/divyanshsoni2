@@ -7,7 +7,7 @@
 
 ## 🔍 About Me
 
-I'm a results-driven Data Analyst with 4+ years of experience delivering impactful insights through statistical analysis, ETL development, and BI dashboards. I specialize in transforming large, complex datasets into strategic value using tools like **Python, SQL, R, Spark, and AWS**.
+I'm a results-driven Data Analyst with close to 5 years of experience delivering impactful insights through statistical analysis, ETL development, and BI dashboards. I specialize in transforming large, complex datasets into strategic value using tools like **Python, SQL, Tableau, Power BI, R, Spark, and AWS**.
 
 ---
 
@@ -28,7 +28,7 @@ I'm a results-driven Data Analyst with 4+ years of experience delivering impactf
 ### 📊 [Sales and Profit Dashboard](#)
 Built an interactive Tableau dashboard to visualize sales trends across regions and categories for business strategy optimization.
 
-### 🤖 [Customer Sentiment Analysis (AWS + BERT)](https://github.com/divyanshsoni2/customer-sentiment-analysis-aws)
+### 🤖 [Customer Sentiment Analysis (AWS + BERT)](https://github.com/divyanshsoni2/Big-Data-Sentiment-Analysis-AWS)
 Performed sentiment classification on 22K+ product reviews using BERT on AWS Glue, Athena, and Sagemaker. Achieved 73.4% accuracy and improved model fairness by 10%.
 
 ### 📈 [Stock Market Real-Time Data Analysis](https://github.com/divyanshsoni2/stock-market-data-pipeline)
